@@ -1,6 +1,6 @@
 # Bank Account Kata
 
-Write a class Account that offers the following methods void deposit(int) void withdraw(int) String printStatement()
+Write a class Account that offers the following methods `deposit(Number)`, `withdraw(Number)` and `printStatement()`
 
 An example statement would be:
 
